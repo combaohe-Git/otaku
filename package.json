@@ -72,7 +72,7 @@
     "clsx": "2.1.1",
     "cors": "2.8.5",
     "date-fns": "4.1.0",
-    "drizzle-orm": "0.44.7",
+    "drizzle-orm": "0.45.2",
     "framer-motion": "12.23.25",
     "jsonwebtoken": "^9.0.3",
     "lucide-react": "0.454.0",
